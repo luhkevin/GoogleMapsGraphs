@@ -1,0 +1,8 @@
+FORMAT: fid, endPt1lat, endPt1lon, endPt2lat, endPt2lon name
+8888,10,10,15,10,Third
+8889,10,20,15,20,Second
+8904,10,40,15,40,First
+8900,10,10,10,20,Market
+8901,15,10,15,20,Walnut
+8902,10,20,10,40,Market
+8903,15,20,15,40,Walnut
